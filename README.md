@@ -1,2 +1,2 @@
-# PubRepo
-List of my publictions with weblink to the papers and the corresponding github source codes.
+# Publication Repo
+List of my publications with links to the papers and the corresponding GitHub source codes.
