@@ -1,4 +1,4 @@
-# Publication Repo
+# Mulugeta W.A.'s Publication Repo
 List of my publications with links to the papers with their corresponding GitHub source codes.
 
 + **[2025 (J)]** M. Asres, "Low-Latency Video Anonymization for Crowd Anomaly Detection: Privacy vs. Performance." _submitted to IEEE Transactions on Information Forensics and Security_, _doi: arXiv preprint:2410.18717_. <a href="https://arxiv.org/abs/2410.18717"><img src="https://img.shields.io/badge/Paper-aXriv-red" alt="LA3D PAPER"></a> <a href="https://github.com/muleina/LA3D"><img src="https://img.shields.io/badge/Code-Github-blue" alt="LA3D CODE"></a>
