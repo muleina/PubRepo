@@ -1,7 +1,7 @@
-# Mulugeta W.A.'s Publication Repo
+# Mulugeta W.Asres's Publication Repo
 List of my publications with links to the papers with their corresponding GitHub source codes.
 
-+ **[2025 (J)]** M. Asres, "Low-Latency Video Anonymization for Crowd Anomaly Detection: Privacy vs. Performance." _submitted to IEEE Transactions on Information Forensics and Security_ <a href="https://arxiv.org/abs/2410.18717"><img src="https://img.shields.io/badge/Paper-aXriv-red" alt="LA3D PAPER"></a> <a href="https://github.com/muleina/LA3D"><img src="https://img.shields.io/badge/Code-Github-blue" alt="LA3D CODE"></a> <a href="https://ai4citizens.uia.no/app_dashboard"><img src="https://img.shields.io/badge/Dashboard-AI4Citizens-yellow" alt="AI4CITIZENS-PACA PROJECT DASHBOARD"></a>
++ **[2025 (J)]** M. Asres, "Low-Latency Video Anonymization for Crowd Anomaly Detection: Privacy vs. Performance." _submitted to IEEE Transactions on Information Forensics and Security_ <a href="https://ieeexplore.ieee.org/document/11231379"><img src="https://img.shields.io/badge/Paper-IEEE-blue" alt="LA3D PAPER"></a> <a href="https://github.com/muleina/LA3D"><img src="https://img.shields.io/badge/Code-Github-blue" alt="LA3D CODE"></a> <a href="https://ai4citizens.uia.no/app_dashboard"><img src="https://img.shields.io/badge/Dashboard-AI4Citizens-yellow" alt="AI4CITIZENS-PACA PROJECT DASHBOARD"></a>
 
 + **[2025 (J)]** M. Asres, et al. "Data Quality Monitoring through Transfer Learning on Anomaly Detection for the Hadron Calorimeters." _Sensors_, 25(11), p.3475.
 <a href="https://www.mdpi.com/1424-8220/25/11/3475"><img src="https://img.shields.io/badge/Paper-Sensors-green" alt="GRAPHSTAD-TL PAPER"></a> <a href="https://github.com/muleina/CMS_HCAL_ML_OnlineDQM"><img src="https://img.shields.io/badge/Code-Github-blue" alt="GRAPHSTAD-TL CODE"></a>
@@ -34,7 +34,7 @@ List of my publications with links to the papers with their corresponding GitHub
   <a href="https://ieeexplore.ieee.org/abstract/document/9099427"><img src="https://img.shields.io/badge/Paper-IEEE-blue" alt="ATP PAPER"></a> 
      
 + **[2019  (J)]** M. Asres, et al. "Non-intrusive Load Composition Estimation from Aggregate ZIP Load Models using Machine Learning." _International Journal of Electrical Power \& Energy Systems_, 105, pp.191-200.
-<a href="https://www.sciencedirect.com/science/article/pii/S0142061518301777"><img src="https://img.shields.io/badge/Paper-IEEE-blue" alt="NILM PAPER"></a>
+<a href="https://www.sciencedirect.com/science/article/pii/S0142061518301777"><img src="https://img.shields.io/badge/Paper-SienceDirect-red" alt="NILM PAPER"></a>
 
 + **[2014  (J)]** M. Asres, et al. "Simulation of GSM Based Home Security and Control System." _Wireless Communication_, 6(1), pp.7-11.
 <a href="https://www.ciitresearch.org/dl/index.php/wc/article/view/WC012014002"><img src="https://img.shields.io/badge/Paper-ICCT-blue" alt="GSM PAPER"></a>
