@@ -1,5 +1,26 @@
-# Mulugeta W. Asres's Publication Repo
-List of my publications with links to the papers with their corresponding GitHub source codes.
+# Mulugeta W. Asres (Ph.D., M.Sc., and B.Sc.) 
+
+AI R&D | Ex-CERN | Airbus Award-Winning Ph.D. Dissertation
+<a href="https://www.linkedin.com/in/mulugeta-weldezgina-asres-1106b916"><img src="https://img.shields.io/badge/Profile-LinkedIn-blue" alt="LinkedIn"></a> <a href="https://scholar.google.com/citations?user=89o7RAwAAAAJ&hl=en"><img src="https://img.shields.io/badge/Profile-Google Scholar-green" alt="LinkedIn"></a> <a href="https://github.com/muleina"><img src="https://img.shields.io/badge/Code-Github-blue" alt="PHD THESIS CODE"></a>
+
++ Hands-on experience in deep learning (DL) and data science across both academia and industry: time‑series (TS), computer vision (CV), large (vision) language models (LLMs/VLMs), predictive maintenance, and large‑scale infrastructure diagnostics. 
++ Published several high-quality disseminations, addressing diverse real-world challenges in production. 
++ Strong foundation in both research and applied AI.
++ ML projects in high‑stakes domains, including public safety, high‑energy physics at CERN, energy efficiency monitoring, and industrial monitoring.
+
+## Ph.D. Dissertation (<a href="https://cds.cern.ch/record/2920461"><img src="https://img.shields.io/badge/3K Downloads-CERN CDS-blue" alt="PHD THESIS"></a> )
++ M. Asres, "Anomaly Detection, Prognostics, and Diagnostics: Machine Learning for the Hadron Calorimeter at the CMS Experiment.", Collaboration between UiA, Norway and CERN, Swizerland, Supervisor Cristian W. Omlin. 
+<a href="https://uia.brage.unit.no/uia-xmlui/handle/11250/3132002"><img src="https://img.shields.io/badge/Ph.D. Thesis-UiA-red" alt="PHD THESIS"></a> <a href="https://cds.cern.ch/record/2920461"><img src="https://img.shields.io/badge/Ph.D. Thesis-CERN-blue" alt="PHD THESIS"></a> <a href="https://gitlab.cern.ch/cmshcos/hcalweb/desmod"><img src="https://img.shields.io/badge/Code-CERN-blue" alt="PHD THESIS CODE"></a> <a href="https://cmshcalweb01.cern.ch/desmod"><img src="https://img.shields.io/badge/Dasboard-CERN-blue" alt="CERN PROJECT DASHBOARD"></a>
+
+## Some of the Projects
++ AI4Citizens for Responsible AI, Norway: M. Asres has led the foundational real-time privacy-preserving AI solutions for the UNCRI's responsible AI recommendations <a href="https://unicri.org/index.php/topics/ai_robotics/AI4Citizens"><img src="https://img.shields.io/badge/Reports-UNICRI-blue" alt="UNCRI AI4Citizens reports"></a>.
++ DESMOD at HCAL-CMS-CERN, Switzerland: DEtector System MOnitoring and Diagnostics: M. Asres has designed unsupervised DL and XAI models for large-scale anomaly detection for the high-energy acquisition systems, 
+developed the DESMOD dashboard for 30K HCAL-CMS infrastructure sensor and data quality monitoring, and integrated models into CMSSW production at CERN  <a href="https://github.com/cms-sw/cmssw/pull/42212"><img src="https://img.shields.io/badge/Merge Deployment-Core CMSSW CERN-blue" alt="HCAL CMSSW Pull"></a>.
++ TIM-AI for alarm ticket triage prediction for Telecom Italia, Italy. M. Asres has developed efficient AI tools that significantly reduced operational alarm management load for mobile telcom network systems.
++ NED for Non-intrusive Energy Disaggregation, Italy: AI for intelligent energy monitoring systems in the Midori NED project. M. Asres has solved some of the most challenging disaggregation and real-time recommender algorithms in the domain.
+
+
+List of publications: papers with corresponding code repos.
 
 ## PrePrint Dissemination
 + **[2026 (J)]** M. Asres, et al. "Zero-Shot Anomaly Explanation for Anonymized Crowd Video Monitoring Using Alert Categorization, Visual Localization, and Scene Context Generation." _draft preprint_.
@@ -20,7 +41,7 @@ List of my publications with links to the papers with their corresponding GitHub
 <a href="https://www.mdpi.com/1424-8220/25/11/3475"><img src="https://img.shields.io/badge/Paper-Sensors-green" alt="GRAPHSTAD-TL PAPER"></a> <a href="https://github.com/muleina/CMS_HCAL_ML_OnlineDQM"><img src="https://img.shields.io/badge/Code-Github-blue" alt="GRAPHSTAD-TL CODE"></a>
 
 + **[2024 (T)]** M. Asres, "Anomaly Detection, Prognostics, and Diagnostics: Machine Learning for the Hadron Calorimeter at the CMS Experiment."
-<a href="https://uia.brage.unit.no/uia-xmlui/handle/11250/3132002"><img src="https://img.shields.io/badge/Thesis-PhD-red" alt="PHD THESIS"></a> <a href="https://cds.cern.ch/record/2920461"><img src="https://img.shields.io/badge/Thesis-CERN-blue" alt="PHD THESIS"></a> <a href="https://github.com/muleina"><img src="https://img.shields.io/badge/Code-Github-blue" alt="PHD THESIS CODE"></a> <a href="https://gitlab.cern.ch/cmshcos/hcalweb/desmod"><img src="https://img.shields.io/badge/Code-CERN-blue" alt="PHD THESIS CODE"></a> <a href="https://cmshcalweb01.cern.ch/desmod"><img src="https://img.shields.io/badge/Dasboard-CERN-blue" alt="CERN PROJECT DASHBOARD"></a>
+<a href="https://uia.brage.unit.no/uia-xmlui/handle/11250/3132002"><img src="https://img.shields.io/badge/Ph.D. Thesis-UiA-red" alt="PHD THESIS"></a> <a href="https://cds.cern.ch/record/2920461"><img src="https://img.shields.io/badge/Ph.D. Thesis-CERN-blue" alt="PHD THESIS"></a> <a href="https://github.com/muleina"><img src="https://img.shields.io/badge/Code-Github-blue" alt="PHD THESIS CODE"></a> <a href="https://gitlab.cern.ch/cmshcos/hcalweb/desmod"><img src="https://img.shields.io/badge/Code-CERN-blue" alt="PHD THESIS CODE"></a> <a href="https://cmshcalweb01.cern.ch/desmod"><img src="https://img.shields.io/badge/Dasboard-CERN-blue" alt="CERN PROJECT DASHBOARD"></a>
 
 + **[2024 (C)]** M. Asres, et al. "Lightweight Mechanism for Multi-System Interconnection and Divergence Discovery." _IEEE Conf. on System of Systems Engineering_, Seattle, USA, pp.36-43.
 <a href="https://ieeexplore.ieee.org/abstract/document/10620930"><img src="https://img.shields.io/badge/Paper-IEEE-blue" alt="LIDD PAPER"></a> <a href="https://github.com/muleina/LIDD"><img src="https://img.shields.io/badge/Code-Github-blue" alt="LIDD CODE"></a>
