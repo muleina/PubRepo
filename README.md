@@ -12,6 +12,8 @@ List of my publications with links to the papers with their corresponding GitHub
 + **[2026 (J, Q1)]** M. Asres, et al. "Scalable Temporal Anomaly Causality Discovery in Large Systems: Achieving Computational Efficiency with Binary Anomaly Flag Data." Accepted in _European Physical Journal C_.
 <a href="https://arxiv.org/abs/2412.11800v3"><img src="https://img.shields.io/badge/Paper-aXriv-red" alt="AnomalyCD PAPER"></a> <a href="https://cds.cern.ch/record/2919488/?ln=en"><img src="https://img.shields.io/badge/Paper-CERN-blue" alt="AnomalyCD PAPER"></a> <a href="https://github.com/muleina/AnomalyCD"><img src="https://img.shields.io/badge/Code-Github-blue" alt="AnomalyCD CODE"></a>
 
++ **[2026 (C)]** Indika, A., and M. Asres "Prompt Compliance and Detectability in Text-to-Video Abnormal Incident Simulation for Safety-Critical Computer Vision." Accepted in _IEEE Int. Con. on Human Centric Artificial Intelligence_, Norway.
+
 + **[2025 (J, Q1)]** M. Asres, "Low-Latency Video Anonymization for Crowd Anomaly Detection: Privacy Versus Performance." _IEEE Transactions on Information Forensics and Security_, 21, pp.1-16. <a href="https://ieeexplore.ieee.org/document/11231379"><img src="https://img.shields.io/badge/Paper-IEEE-blue" alt="LA3D PAPER"></a> <a href="https://github.com/muleina/LA3D"><img src="https://img.shields.io/badge/Code-Github-blue" alt="LA3D CODE"></a> <a href="https://ai4citizens.uia.no/app_dashboard"><img src="https://img.shields.io/badge/Dashboard-AI4Citizens-yellow" alt="AI4CITIZENS-PACA PROJECT DASHBOARD"></a>
 
 + **[2025 (J, Q1)]** M. Asres, et al. "Data Quality Monitoring through Transfer Learning on Anomaly Detection for the Hadron Calorimeters." _Sensors_, 25(11), p.3475.
