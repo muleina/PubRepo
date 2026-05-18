@@ -25,7 +25,7 @@ List of publications: papers with corresponding code repos.
 ## PrePrint Dissemination
 + **[2026 (J)]** Mulugeta W. Asres, et al. "Zero-Shot Anomaly Explanation for Anonymized Crowd Video Monitoring Using Alert Categorization, Visual Localization, and Scene Context Generation." _draft preprint_.
 
-+ **[2026 (C)]** Mulugeta W. Asres, et al. "Sensitivity and Privacy Protection of Race and Gender Attributes for Crowd Video Monitoring using Controlled Simulated Videos." _draft preprint_.
++ **[2026 (C)]** Mulugeta W. Asres, et al. "Sensitivity and Privacy Protection of Race and Gender Attributes for Crowd Video Monitoring using Controlled Simulation Videos." _draft preprint_.
 
 + **[2026 (J)]** Mulugeta W. Asres, et al. "PACA: Open-Source Toolkit for Lightweight Privacy-Aware CCTV Anomaly Detection." _draft preprint_. <a href="https://ai4citizens.uia.no"><img src="https://img.shields.io/badge/Dashboard-PACA-yellow" alt="PACA DASHBOARD"></a>
 
