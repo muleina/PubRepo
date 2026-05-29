@@ -30,8 +30,8 @@ List of publications: papers with corresponding code repos.
 + **[2026 (J)]** Mulugeta W. Asres, et al. "PACA: Open-Source Toolkit for CCTV Anomaly Detection: Real-Time, Privacy-Aware, and Explainable." _draft preprint_. <a href="https://ai4citizens.uia.no"><img src="https://img.shields.io/badge/Dashboard-PACA-yellow" alt="PACA DASHBOARD"></a>
 
 ## Pubished Dissemination
-+ **[2026 (J, Q1)]** M. Asres, et al. "Scalable Temporal Anomaly Causality Discovery in Large Systems: Achieving Computational Efficiency with Binary Anomaly Flag Data." Accepted in _European Physical Journal C_.
-<a href="https://arxiv.org/abs/2412.11800v3"><img src="https://img.shields.io/badge/Paper-aXriv-red" alt="AnomalyCD PAPER"></a> <a href="https://cds.cern.ch/record/2919488/?ln=en"><img src="https://img.shields.io/badge/Paper-CERN-blue" alt="AnomalyCD PAPER"></a> <a href="https://github.com/muleina/AnomalyCD"><img src="https://img.shields.io/badge/Code-Github-blue" alt="AnomalyCD CODE"></a>
++ **[2026 (J, Q1)]** M. Asres, et al. "Scalable Temporal Anomaly Causality Discovery in Large Systems: Achieving Computational Efficiency with Binary Anomaly Flag Data." _European Physical Journal C_, 86, 585.
+<a href="https://link.springer.com/article/10.1140/epjc/s10052-026-15611-5"><img src="https://img.shields.io/badge/Paper-EPJC-red" alt="AnomalyCD PAPER"></a> <a href="https://cds.cern.ch/record/2919488/?ln=en"><img src="https://img.shields.io/badge/Paper-CERN-blue" alt="AnomalyCD PAPER"></a> <a href="https://github.com/muleina/AnomalyCD"><img src="https://img.shields.io/badge/Code-Github-blue" alt="AnomalyCD CODE"></a>
 
 + **[2026 (C)]** Indika, A., and Mulugeta W. Asres "Prompt Compliance and Detectability in Text-to-Video Abnormal Incident Simulation for Safety-Critical Computer Vision." Accepted in _IEEE Int. Con. on Human Centric Artificial Intelligence_, Norway.
 
