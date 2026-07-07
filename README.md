@@ -8,28 +8,28 @@ AI R&D | Ex-CERN | Airbus Award-Winning Ph.D. Dissertation
 + Strong foundation in both research and applied AI.
 + ML projects in high‑stakes domains, including public safety, high‑energy physics at CERN, energy efficiency monitoring, and industrial monitoring.
 
-## Ph.D. Dissertation (<a href="https://cds.cern.ch/record/2920461"><img src="https://img.shields.io/badge/3K Downloads-CERN CDS-blue" alt="PHD THESIS"></a> )
-+ Mulugeta W. Asres, "Anomaly Detection, Prognostics, and Diagnostics: Machine Learning for the Hadron Calorimeter at the CMS Experiment.", Collaboration between UiA, Norway and CERN, Swizerland, Supervisor Cristian W. Omlin. 
+## Ph.D. Dissertation (<a href="https://cds.cern.ch/record/2920461"><img src="https://img.shields.io/badge/3K Downloads-CERN CDS-blue" alt="PHD THESIS"></a>)
++ Mulugeta W. Asres, "Anomaly Detection, Prognostics, and Diagnostics: Machine Learning for the Hadron Calorimeter at the CMS Experiment.", Collaboration between UiA, Norway and CERN, Switzerland, Supervisor Cristian W. Omlin. 
 <a href="https://nva.sikt.no/registration/0198cc6cc593-ad80a3c4-b943-4248-bc4f-a78525cc7c89"><img src="https://img.shields.io/badge/Ph.D. Thesis-UiA-red" alt="PHD THESIS"></a> <a href="https://cds.cern.ch/record/2920461"><img src="https://img.shields.io/badge/Ph.D. Thesis-CERN-blue" alt="PHD THESIS"></a> <a href="https://gitlab.cern.ch/cmshcos/hcalweb/desmod"><img src="https://img.shields.io/badge/Code-CERN-blue" alt="PHD THESIS CODE"></a> <a href="https://cmshcalweb01.cern.ch/desmod"><img src="https://img.shields.io/badge/Dasboard-CERN-blue" alt="CERN PROJECT DASHBOARD"></a>
 
 ## Some of the Projects
 + AI4Citizens for Responsible AI, Norway: M. Asres has led the foundational real-time privacy-preserving AI solutions for the UNCRI's responsible AI recommendations <a href="https://unicri.org/index.php/topics/ai_robotics/AI4Citizens"><img src="https://img.shields.io/badge/Reports-UNICRI-blue" alt="UNCRI AI4Citizens reports"></a>.
 + DESMOD at HCAL-CMS-CERN, Switzerland: DEtector System MOnitoring and Diagnostics: M. Asres has designed unsupervised DL and XAI models for large-scale anomaly detection for the high-energy acquisition systems, 
 developed the DESMOD dashboard for 30K HCAL-CMS infrastructure sensor and data quality monitoring, and integrated models into CMSSW production at CERN  <a href="https://github.com/cms-sw/cmssw/pull/42212"><img src="https://img.shields.io/badge/Merge Deployment-Core CMSSW CERN-blue" alt="HCAL CMSSW Pull"></a>.
-+ TIM-AI for alarm ticket triage prediction for Telecom Italia, Italy. M. Asres has developed efficient AI tools that significantly reduced operational alarm management load for mobile telcom network systems.
++ TIM-AI for alarm ticket triage prediction for Telecom Italia, Italy. M. Asres has developed efficient AI tools that significantly reduced operational alarm management load for mobile telecom network systems.
 + NED for Non-intrusive Energy Disaggregation, Italy: AI for intelligent energy monitoring systems in the Midori NED project. M. Asres has solved some of the most challenging disaggregation and real-time recommender algorithms in the domain.
 
 
 List of publications: papers with corresponding code repos.
 
-## PrePrint Dissemination
+## Preprint Dissemination
 + **[2026 (J)]** Mulugeta W. Asres, et al. "Zero-Shot Anomaly Explanation for Anonymized Crowd Video Monitoring Using Alert Categorization, Visual Localization, and Scene Context Generation." _draft preprint_.
 
 + **[2026 (C)]** Mulugeta W. Asres, et al. "Sensitivity and Privacy Protection of Race and Gender Attributes for Crowd Video Monitoring using Controlled Simulation Videos." _draft preprint_.
 
 + **[2026 (J)]** Mulugeta W. Asres, et al. "PACA: Open-Source Toolkit for CCTV Anomaly Detection: Real-Time, Privacy-Aware, and Explainable." _draft preprint_. <a href="https://ai4citizens.uia.no"><img src="https://img.shields.io/badge/Dashboard-PACA-yellow" alt="PACA DASHBOARD"></a>
 
-## Pubished Dissemination
+## Published Dissemination
 + **[2026 (J, Q1)]** M. Asres, et al. "Scalable Temporal Anomaly Causality Discovery in Large Systems: Achieving Computational Efficiency with Binary Anomaly Flag Data." _European Physical Journal C_, 86, 585.
 <a href="https://link.springer.com/article/10.1140/epjc/s10052-026-15611-5"><img src="https://img.shields.io/badge/Paper-EPJC-red" alt="AnomalyCD PAPER"></a> <a href="https://cds.cern.ch/record/2919488/?ln=en"><img src="https://img.shields.io/badge/Paper-CERN-blue" alt="AnomalyCD PAPER"></a> <a href="https://github.com/muleina/AnomalyCD"><img src="https://img.shields.io/badge/Code-Github-blue" alt="AnomalyCD CODE"></a>
 
@@ -69,3 +69,27 @@ List of publications: papers with corresponding code repos.
 
 + **[2014  (J)]** Mulugeta W. Asres, et al. "Simulation of GSM Based Home Security and Control System." _Wireless Communication_, 6(1), pp.7-11.
 <a href="https://www.ciitresearch.org/dl/index.php/wc/article/view/WC012014002"><img src="https://img.shields.io/badge/Paper-ICCT-blue" alt="GSM PAPER"></a>
+
+## Some Course Certificates
++ Addressing Large Hadron Collider Challenges by Machine Learning, from _HSE National Research University_.
+<a href="https://www.coursera.org/account/accomplishments/verify/DSWN662GE8MC?utm_source=link&utm_campaign=copybutton_certificate"><img src="https://img.shields.io/badge/Cert-Python-blue" alt=""></a>
++ Deep Learning with MATLAB, from _MathWorks_.
+<a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=b144b739-0cbf-4d6b-ad5b-41e126b144ff"><img src="https://img.shields.io/badge/Cert-MATLAB-red" alt=""></a>
++ Machine Learning with MATLAB, from _MathWorks_.
+<a href="https://matlabacademy.mathworks.com/progress/share/certificate.html?id=15ddf2f8-6b02-4335-935f-7cca2a78277d"><img src="https://img.shields.io/badge/Cert-MATLAB-red" alt=""></a>
++ Data Science, Deep Learning, & Machine Learning with Python, from _Sundog Education_.
+<a href="https://www.udemy.com/certificate/UC-1MZACNOG"><img src="https://img.shields.io/badge/Cert-Python-blue" alt=""></a>
++ Deep Learning: Advanced Computer Vision, from _LP Inc_.
+<a href="https://www.udemy.com/certificate/UC-GHPZ0VRA/"><img src="https://img.shields.io/badge/Cert-Python-blue" alt=""></a>
++ Data Cleaning, from _Kaggle_.
+<a href="https://www.kaggle.com/learn/certification/muleina/data-cleaning"><img src="https://img.shields.io/badge/Cert-Python-blue" alt=""></a>
++ M001: MongoDB Basics, from _MongoDB University_.
+<a href="https://www.ciitresearch.org/dl/index.php/wc/article/view/WC012014002"><img src="https://img.shields.io/badge/Cert-MongoDB-green" alt=""></a>
++ AI Agents in LangGraph, from _Tavily and Deeplearning.AI_.
+<a href=""><img src="https://img.shields.io/badge/Cert-Python-blue" alt=""></a>
++ Retrieval Augmented Generation (RAG), from _Devo.AI and Deeplearning.AI_.
+<a href=""><img src="https://img.shields.io/badge/Cert-Python-blue" alt=""></a>
++ Evaluating and Debugging Generative AI, from _W&B and Deeplearning.AI_.
+<a href=""><img src="https://img.shields.io/badge/Cert-Python-blue" alt=""></a>
++ LLMOps, from _Google Cloud and Deeplearning.AI_.
+<a href=""><img src="https://img.shields.io/badge/Cert-Python-blue" alt=""></a>
