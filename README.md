@@ -85,11 +85,12 @@ List of publications: papers with corresponding code repos.
 <a href="https://www.kaggle.com/learn/certification/muleina/data-cleaning"><img src="https://img.shields.io/badge/Cert-Python-blue" alt=""></a>
 + M001: MongoDB Basics, from _MongoDB University_.
 <a href="https://www.ciitresearch.org/dl/index.php/wc/article/view/WC012014002"><img src="https://img.shields.io/badge/Cert-MongoDB-green" alt=""></a>
-+ AI Agents in LangGraph, from _Tavily and Deeplearning.AI_.
++ LLMOps, from _Google Cloud_.
 <a href=""><img src="https://img.shields.io/badge/Cert-Python-blue" alt=""></a>
-+ Retrieval Augmented Generation (RAG), from _Devo.AI and Deeplearning.AI_.
++ Retrieval Augmented Generation (RAG), from _Devo.AI_.
 <a href=""><img src="https://img.shields.io/badge/Cert-Python-blue" alt=""></a>
-+ Evaluating and Debugging Generative AI, from _W&B and Deeplearning.AI_.
++ Evaluating and Debugging Generative AI, from _W&B_.
 <a href=""><img src="https://img.shields.io/badge/Cert-Python-blue" alt=""></a>
-+ LLMOps, from _Google Cloud and Deeplearning.AI_.
++ AI Agents in LangGraph, from _Tavily_.
 <a href=""><img src="https://img.shields.io/badge/Cert-Python-blue" alt=""></a>
+
