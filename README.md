@@ -1,4 +1,4 @@
-# Mulugeta W. Asres (Ph.D., M.Sc., and B.Sc.) 
+# Mulugeta W. Asres (Ph.D.) 
 
 AI R&D | Ex-CERN | Airbus Award-Winning Ph.D. Dissertation
 <a href="https://www.linkedin.com/in/mulugeta-weldezgina-asres-1106b916"><img src="https://img.shields.io/badge/Profile-LinkedIn-blue" alt="LinkedIn"></a> <a href="https://scholar.google.com/citations?user=89o7RAwAAAAJ&hl=en"><img src="https://img.shields.io/badge/Profile-Google Scholar-green" alt="LinkedIn"></a> <a href="https://github.com/muleina"><img src="https://img.shields.io/badge/Code-Github-blue" alt="PHD THESIS CODE"></a>
